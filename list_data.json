@@ -1,22 +1,23 @@
 {
-	"movies": [
+	"Undergrad Projects": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Project": "Underwater R.O.V. Stereo-Image Sizing",
+			"Company": "Human-Robot Ineraction Lab @ University of California, Santa Cruz",
+			"Role": "Research Assitant",
+			"Year": "2020"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Project": "Money Doesn't Buy You Happiness: Negative Consequences of Using the Freemium Model for Mental Health Apps",
+			"Company": "Human-Computer Ineraction Lab @ University of California, Santa Cruz",
+			"Role": "Research Assistant",
+			"Year": "2020",
+			"Link": "https://doi.org/10.1145/3555155"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Project": "UCSC Undergradute Resarch Website - Redesign",
+			"Company": "Human-Centered Design Class",
+			"Role": "Student",
+			"Year": "2019"
 		}
 	]
 }
